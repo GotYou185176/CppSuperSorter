@@ -21,7 +21,7 @@ int main(){
 }
 ```
 ___
-### Selection Sort
+### Selection Sort (sorry for late uploading)
 ```cpp
 #include<iostream>
 #include "sort.h"
@@ -39,3 +39,4 @@ int main(){
 ___
 This repo is not completed because i am learning DSA so everyday I learn something new then apply that on my repo
 _I use Arch btw..._
+
